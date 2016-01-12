@@ -1,2 +1,2 @@
-# games
-Practicing by making games
+# javascriptPractice
+Practicing by making games/test code
